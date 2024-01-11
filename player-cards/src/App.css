@@ -1,0 +1,15 @@
+.App {
+  font-family: barlow;
+  background-image: url(./Components/Assets/bballx.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center; 
+  
+}
+.App h1{
+  margin-top: 2%;
+  margin-left: 35%;
+  color: #e77346;
+}.App p{
+  font-weight: 400;
+}
