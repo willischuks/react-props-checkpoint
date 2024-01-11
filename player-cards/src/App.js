@@ -3,6 +3,8 @@ import './App.css';
 import PlayersList from './Components/playersList';
 import TextLinkExample  from './Components/navBar';
 
+
+// rendered player cards with bootstrap navbar
 function App() {
   return (
     <div className="App">

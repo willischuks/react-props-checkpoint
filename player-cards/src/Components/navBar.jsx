@@ -1,6 +1,9 @@
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 
+
+
+// bootstrap navbar
 function TextLinkExample() {
     return (
         <Navbar className="bg-body-tertiary">

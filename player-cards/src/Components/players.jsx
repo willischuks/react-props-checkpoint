@@ -1,7 +1,7 @@
-import React from 'react';
+// import React, { Component } from 'react';
 import Card from 'react-bootstrap/Card';
 
-
+    // PlayerCard Component with props added
 const PlayerCard = ({name, team, nationality, jerseyNumber, age, position, imageURL})=>{
     return(
         
@@ -26,6 +26,7 @@ const PlayerCard = ({name, team, nationality, jerseyNumber, age, position, image
     )
 
 }
+// default props
     PlayerCard.defaultProps = {
         name: 'Willis Chuks',
         nationality: 'Nigeria',

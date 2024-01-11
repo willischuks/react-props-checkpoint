@@ -2,6 +2,8 @@ import React from 'react';
 import PlayerInfo from './player';
 import PlayerCard from './players';
 
+
+// mapping through the players
 const PlayersList = () => {
     return (
         <div style={{ display: 'flex', mt:'1cm', gap:'10px', alignItems:'center', justifyContent:'center'}}>

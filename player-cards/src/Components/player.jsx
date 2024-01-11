@@ -9,7 +9,7 @@ import Victoria from '../Components/Assets/victoria.jpg'
 
 
 
-
+// players details
 
 
 const PlayerInfo = [
